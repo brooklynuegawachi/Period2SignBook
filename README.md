@@ -1,6 +1,6 @@
 # HTML Class Signature Book
 
-In this project the class will fork this repository to thier own account.
+In this project the class will fork this repository to their own account.
 
 Your assignment is to insert your name into this HTML file.
 
